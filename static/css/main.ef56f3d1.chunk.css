@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;align-items:center;flex-wrap:wrap}.Carousel{position:relative}.Carousel__list-wrapper{width:390px;overflow:hidden}.Carousel__list{list-style:none;display:flex;max-width:100%;padding:0}.Carousel__arrow{position:absolute;-webkit-transform:translateY(-50%);transform:translateY(-50%);top:50%;font-size:2rem;border:none;background-color:#fff;cursor:pointer;color:red}.Carousel__arrow--prev{left:-50px}.Carousel__arrow--next{right:-50px}.disabled{color:grey}
+/*# sourceMappingURL=main.ef56f3d1.chunk.css.map */
